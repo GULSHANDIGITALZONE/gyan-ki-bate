@@ -1,3 +1,10 @@
+export function generateMetadata({ params }) {
+  return {
+    title: "Gyan Ki Bate",
+    description: "जीवन की कहानी और सीख",
+  };
+}
+
 import { posts } from "../../../data/posts";
 
 export default function StoryPage({ params }) {
