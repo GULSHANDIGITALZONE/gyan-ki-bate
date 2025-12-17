@@ -1,1 +1,0 @@
-# gyan-ki-bate
